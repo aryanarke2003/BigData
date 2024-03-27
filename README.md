@@ -1,6 +1,6 @@
 # Big Data with PySpark using Anaconda & Jupyter Notebook
 
-Welcome to the Big Data with PySpark project repository! This project focuses on performing data analysis using PySpark within an Anaconda environment and Jupyter Notebook. You'll explore various tasks related to weather data analysis, covering topics from basic data manipulation to complex queries.
+Welcome to the Big Data with PySpark project repository! This project focuses on performing data analysis using PySpark within an Anaconda environment and Jupyter Notebook. You'll explore various tasks related to weather data analysis, covering topics from basic data manipulation to complex queries. 
 
 ## Project Structure
 
